@@ -4,3 +4,7 @@
 分别是：
 /assets/store/下的所有文件
 /template/store/下的所有文件
+<img width="1596" height="682" alt="Image" src="https://github.com/user-attachments/assets/4a5f1c12-0b8c-46f3-976c-2e29684c7578" />
+<img width="1794" height="1301" alt="Image" src="https://github.com/user-attachments/assets/94577319-8b6f-45da-9e86-8eba43ca1d27" />
+<img width="1948" height="1310" alt="Image" src="https://github.com/user-attachments/assets/773f3703-0368-4347-a3e3-3f6564cd795c" />
+<img width="2008" height="1300" alt="Image" src="https://github.com/user-attachments/assets/d0f5bcf3-055c-4bd7-91eb-5e07b8c8b61f" />
