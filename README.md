@@ -5,7 +5,7 @@
 /assets/store/下的所有文件<br>
 /template/store/下的所有文件<br>
 
-彩虹系统全站美化版本（收费）https://github.com/GZXS1314/caihong-system
+彩虹系统全站美化版本（收费）https://github.com/GZXS1314/caihong-system<br>
 <img height="300px" alt="Image" src="https://github.com/user-attachments/assets/940a5f59-6386-45d5-80ee-5cff135e80f6" />
 <img height="300px"  alt="Image" src="https://github.com/user-attachments/assets/4a107e14-e446-4e31-bc5c-4bf846b42275" />
 <img width="2008" height="1300" alt="Image" src="https://github.com/user-attachments/assets/d0f5bcf3-055c-4bd7-91eb-5e07b8c8b61f" />
