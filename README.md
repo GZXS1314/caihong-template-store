@@ -1,9 +1,9 @@
-基于平时爱好，无聊时，二开的彩虹商城store模板，全开源无加密
-使用方法：
-覆盖掉原来的store文件即可
-分别是：
-/assets/store/下的所有文件
-/template/store/下的所有文件
+基于平时爱好，无聊时，二开的彩虹商城store模板，全开源无加密<br>
+使用方法：<br>
+覆盖掉原来的store文件即可<br>
+分别是：<br>
+/assets/store/下的所有文件<br>
+/template/store/下的所有文件<br>
 <img width="1596" height="682" alt="Image" src="https://github.com/user-attachments/assets/4a5f1c12-0b8c-46f3-976c-2e29684c7578" />
 <img width="1794" height="1301" alt="Image" src="https://github.com/user-attachments/assets/94577319-8b6f-45da-9e86-8eba43ca1d27" />
 <img width="1948" height="1310" alt="Image" src="https://github.com/user-attachments/assets/773f3703-0368-4347-a3e3-3f6564cd795c" />
